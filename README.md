@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# React Movie API
+![](https://raw.githubusercontent.com/AryaKagathara/React-Movie-Api/master/image1.PNG) 
+![](https://raw.githubusercontent.com/AryaKagathara/React-Movie-Api/master/image2.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
