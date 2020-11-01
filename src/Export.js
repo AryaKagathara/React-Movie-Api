@@ -1,2 +1,2 @@
-const Key = "http://www.omdbapi.com/?apikey=502bb9c0&t=";
+const Key = "http://www.omdbapi.com/?apikey=YOUR_API_KEY";
 export default Key; 
